@@ -1,0 +1,19 @@
+{
+  "name": "all-in-a-day-s-work",
+  "version": "1.0.0",
+  "description": "Get ready for All in A day's work(the name is still a work in progress), the future all-in-one service app that will revolutionize the on-demand services market. With our app, you'll be able to order food, catch a ride, and get your groceries delivered, all from one place. Sure, we haven't built it yet, but we're excited to start this crazy journey and see where it takes us. We might encounter a few monsters (or bugs) along the way, but we promise we'll do our best to tame them. After all, even Rome wasn't built in a day. So stay tuned for updates as we embark on this wild ride of creating the ultimate all-in-one service app. Who knows, maybe one day we'll even take over the world (or at least the on-demand services market). Let's see where this adventure takes us!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icemedia001/All-in-A-day-s-work.git"
+  },
+  "author": "Cold Dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icemedia001/All-in-A-day-s-work/issues"
+  },
+  "homepage": "https://github.com/icemedia001/All-in-A-day-s-work#readme"
+}
