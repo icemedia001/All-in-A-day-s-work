@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/icemedia001/All-in-A-day-s-work/issues"
   },
-  "homepage": "https://github.com/icemedia001/All-in-A-day-s-work#readme"
+  "homepage": "https://github.com/icemedia001/All-in-A-day-s-work#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.0"
+  }
 }
